@@ -1,3 +1,5 @@
 first part of 12 python projects
 
-madlibs game to improve understanding in string concatenation
+this respository contains the following projects
+1. madlibs
+2. guess the number
